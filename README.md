@@ -1,12 +1,12 @@
 # Super simple shop clock
 
-![](front.jpg)
+![](pics/front.jpg)
 
-![](front2.jpg)
+![](pics/front2.jpg)
 
-![](back.jpg)
+![](pics/back.jpg)
 
-![](rack.jpg)
+![](pics/rack.jpg)
 
-![](top.jpg)
+![](pics/top.jpg)
 
